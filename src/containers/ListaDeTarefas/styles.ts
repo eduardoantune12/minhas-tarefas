@@ -5,3 +5,11 @@ export const Container = styled.main`
   height: 100vh;
   overflow-y: scroll;
 `
+
+export const Resultado = styled.p`
+  display: block;
+  font-weight: bold;
+  font-size: 18px;
+  color: #000000;
+  padding: 40px 0;
+`
